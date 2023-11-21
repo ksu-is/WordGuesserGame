@@ -1,6 +1,1 @@
--[x] Create repository
--[x] Create readme
--[x] Create project roadmap
--[x] Fork a similar project from github
--[] Run the cloned code locally
--[] Begin coding my own version
+
